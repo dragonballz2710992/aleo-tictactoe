@@ -29,7 +29,7 @@ An alternative representation would be to use an array, however, these are not y
 Leo provides users with a command line interface for compiling and running Leo programs.
 Users may either specify input values via the command line or provide an input file in `inputs/`.
 
-### Providing inputs via the command line.
+### Providing inputs via the command line.test
 1. Run 
 ```bash
 leo run <function_name> <input_1> <input_2> ...
